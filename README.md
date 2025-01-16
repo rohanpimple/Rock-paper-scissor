@@ -29,7 +29,7 @@ A simple Rock-Paper-Scissors game built using HTML, CSS, and JavaScript. Play ag
 📦 Installation
 
 * Clone the repository:
-  git clone https://github.com/yourusername/stone-paper-scissor.git
+  git clone https://github.com/rohanpimple/Rock-paper-scissor
 * Open index.html in a web browser.
 
 🎮 How to Play?
